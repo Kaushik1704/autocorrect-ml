@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env/
+
+# Logs
+*.log
+*.out
+
+# AWS credentials
+*.csv
+*.json
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Docker
+*.tar
